@@ -34,7 +34,7 @@ This page is not designed to be an exhaustive resource on how to approach data v
 
 At its core, data visualization highlights or draws attention to aspects of an underlying dataset.
 
-<p align="center"><a href="[https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_1.jpg](https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_1.jpg)?raw=true"><img class="aligncenter" src="[https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_1.jpg?raw=true](https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_1.jpg)" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_1.jpg"><img class="aligncenter" src="https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_1.jpg" /></a></p>
 
 Image source: A. Abela, [Extreme Presentation Method](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
 
