@@ -56,7 +56,7 @@ Once you have a sense of what you want the visualization to accomplish, you can 
 - Peter Aldhous's *Intro Data Viz* course (Fall 2016) includes useful questions to consider.
 - ["Data visualization: basic principles"](http://paldhous.github.io/ucb/2016/dataviz/week2.html)
 
-<p align="center"><a href="https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_2.png?raw=true" /></a></p>
+<p align="center"><a href="(https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png)"><img class="aligncenter" src="(https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png)" /></a></p>
 
 Image source: [Ferdio's DataVizProject](https://datavizproject.com/)
 
