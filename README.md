@@ -56,7 +56,7 @@ Once you have a sense of what you want the visualization to accomplish, you can 
 - Peter Aldhous's *Intro Data Viz* course (Fall 2016) includes useful questions to consider.
 - ["Data visualization: basic principles"](http://paldhous.github.io/ucb/2016/dataviz/week2.html)
 
-<p align="center"><a href="(https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png)"><img class="aligncenter" src="(https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png)" /></a></p>
+<p align="center"><a href="https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png"><img class="aligncenter" src="https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_2.png" /></a></p>
 
 Image source: [Ferdio's DataVizProject](https://datavizproject.com/)
 
@@ -66,7 +66,7 @@ Ferdio's DataVisProject also includes examples of a wide range of visualization 
 
 The wide range of customization or styling options when building a visualization can be overwhelming. We can think of these style elements as visual cues that can help a visualization achieve a desired communication or rhetorical goal.
 
-<p align="center"><a href="https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/data-viz-intro/blob/main/figures/Figure_3.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_3.png"><img class="aligncenter" src="https://github.com/zuhaibbutt786/Data-visualization-resources/blob/main/images/Figure_3.png" /></a></p>
 
 Image source: Peter Aldhous, ["Data visualization: basic principles"](http://paldhous.github.io/ucb/2016/dataviz/week2.html), *Intro Data Viz* (Fall 2016)
 
